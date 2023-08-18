@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "64df05d4a6ba5a55f9b4a144",
+    "isActive": false,
+    "coverImg": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1232608943.jpg?w=1390&crop=1",
+    "postName": "Twitch will let streamers block banned users from watching streams",
+    "profileImg": "https://avatars.githubusercontent.com/u/72511886?v=4",
+    "username": "Md. Shahriar Rahman",
+    "date": "Mar 14 (4 Days ago)",
+    "readingTime": 12,
+    "hashtag": ["#social", "#media"]
+  },
+  {
+    "_id": "64df05d4a6ba5a55f9b4a145",
+    "isActive": false,
+    "coverImg": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1371061599.jpg?w=1390&crop=1",
+    "postName": "HealthXCapital’s team joins Jungle Ventures",
+    "profileImg": "https://avatars.githubusercontent.com/u/72511886?v=4",
+    "username": "Md. Shahriar Rahman",
+    "date": "Mar 10 (8 Days ago)",
+    "readingTime": 6,
+    "hashtag": ["#biotech", "#health"]
+  },
+  {
+    "_id": "64df05d4a6ba5a55f9b4a146",
+    "isActive": false,
+    "coverImg": "https://techcrunch.com/wp-content/uploads/2023/08/TAS-LAUNCH-EWM-11.jpg?w=1390&crop=1",
+    "postName": "True Anomaly gets regulatory greenlight for first spacecraft reconnaissance mission",
+    "profileImg": "https://avatars.githubusercontent.com/u/72511886?v=4",
+    "username": "Md. Shahriar Rahman",
+    "date": "Mar 8 (10 Days ago)",
+    "readingTime": 8,
+    "hashtag": ["#space", "#spaceX"]
+  },
+  {
+    "_id": "64df05d4a6ba5a55f9b4a147",
+    "isActive": false,
+    "coverImg": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=1390&crop=1",
+    "postName": "Fifteen years in and still early to the industry with Marco Zappacosta from Thumbtack",
+    "profileImg": "https://avatars.githubusercontent.com/u/72511886?v=4",
+    "username": "Md. Shahriar Rahman",
+    "date": "Mar 7 (11 Days ago)",
+    "readingTime": 13,
+    "hashtag": ["#startup", "#project"]
+  },
+  {
+    "_id": "64df05d4a6ba5a55f9b4a148",
+    "isActive": false,
+    "coverImg": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1158411075.jpg?w=1390&crop=1",
+    "postName": "Tumblr is rolling out a new web interface, and it looks a lot like X (formerly Twitter)",
+    "profileImg": "https://avatars.githubusercontent.com/u/72511886?v=4",
+    "username": "Md. Shahriar Rahman",
+    "date": "Mar 5 (13 Days ago)",
+    "readingTime": 15,
+    "hashtag": ["#app", "#social"]
+  },
+  {
+    "_id": "64df05d4a6ba5a55f9b4a149",
+    "isActive": false,
+    "coverImg": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-919509886.jpg?w=1390&crop=1",
+    "postName": "Bitcoin spot ETFs heat up, SBF’s bail revoked and web3 gaming adoption grows in Asia",
+    "profileImg": "https://avatars.githubusercontent.com/u/72511886?v=4",
+    "username": "Md. Shahriar Rahman",
+    "date": "Mar 3 (15 Days ago)",
+    "readingTime": 18,
+    "hashtag": ["#crypto", "#currency"]
+  }
+]
